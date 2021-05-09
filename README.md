@@ -36,7 +36,12 @@ git clone https://github.com/willnogueyra/dev-finances
 
 
 # Entre no diretório
-cd dev.finances
+cd dev-finances
+
+
+
+# Abra com seu editor (ex: VSCode)
+code .
 ```
 
 Depois disso, utilize uma ferramenta como o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para criar um servidor local e executar o projeto.
