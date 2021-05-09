@@ -33,6 +33,8 @@ O dev.finances é um projeto para calcular o fluxo de caixa, suas entradas e sa�
 # Clone o repositório
 git clone https://github.com/willnogueyra/dev-finances
 
+
+
 # Entre no diretório
 cd dev.finances
 ```
